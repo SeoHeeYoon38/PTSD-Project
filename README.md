@@ -1,4 +1,5 @@
 # 🎮 PTSD _Team Project
+<img width="1095" height="618" alt="화면 캡처 2025-05-17 233947" src="https://github.com/user-attachments/assets/44ff79a8-3643-49da-84a9-1c3d553a985f" />
 
 **게임컨셉 : 몽중몽**
 
@@ -33,8 +34,6 @@
 ⚠️ 본 프로젝트는 팀 프로젝트로 진행되었으며, 소스코드는 비공개입니다.
 
 📸 실행 화면
-<img width="1095" height="618" alt="화면 캡처 2025-05-17 233947" src="https://github.com/user-attachments/assets/44ff79a8-3643-49da-84a9-1c3d553a985f" />
-
 <img width="1590" height="892" alt="화면 캡처 2025-05-17 234018" src="https://github.com/user-attachments/assets/b1088520-f351-48f0-a760-bb2ffb777011" />
 
 <img width="1591" height="889" alt="화면 캡처 2025-05-17 234330" src="https://github.com/user-attachments/assets/a400afce-9820-4415-8828-70c1cc30db5c" />
